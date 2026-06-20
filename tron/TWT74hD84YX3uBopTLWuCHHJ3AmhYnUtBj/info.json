@@ -1,0 +1,9 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDC",
+  "decimals": 6,
+  "type": "TRC20",
+  "id": "TWT74hD84YX3uBopTLWuCHHJ3AmhYnUtBj",
+  "description": "Tether USD",
+  "explorer": "https://tronscan.org/#/token20/TWT74hD84YX3uBopTLWuCHHJ3AmhYnUtBj"
+}
